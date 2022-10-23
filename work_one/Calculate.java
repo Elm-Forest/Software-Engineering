@@ -1,3 +1,5 @@
+package work_one;
+
 import java.util.Scanner;
 
 /**
