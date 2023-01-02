@@ -3,7 +3,7 @@ package work_one;
 import java.util.Scanner;
 
 /**
- * @author Zhang Jinming
+ * @author Zhang 1Jinming
  * &#064;date  5/9/2022 上午8:49
  */
 public class Calculate {
